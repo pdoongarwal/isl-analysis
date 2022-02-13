@@ -1,0 +1,9 @@
+team_name,team_short_name,match_played,win,draw,loss,goal,shot,cross,pass,touch,cleansheet,save,tackle,foul,redcard,yellowcard
+Chennaiyin FC,CFC,16,7,5,4,27,223,242,6466,9071,3,42,355,237,3.0,36
+FC Goa,FCG,16,6,6,4,21,228,256,6905,9693,7,53,361,210,1.0,29
+Kerala Blasters FC,KBFC,17,6,4,7,13,189,323,6717,9511,7,57,267,218,1.0,37
+ATK,ATK,17,5,9,3,17,175,277,6159,9163,8,56,388,250,3.0,32
+Delhi Dynamos FC,DDFC,14,4,6,4,16,168,267,5709,7936,5,62,172,145,2.0,19
+FC Pune City,FCPC,14,4,4,6,12,188,277,5523,7941,5,40,238,146,,28
+Mumbai City FC,MCFC,14,4,4,6,12,181,225,5893,8115,6,49,266,155,1.0,26
+NorthEast United FC,NEUFC,14,3,6,5,11,159,271,6084,8554,6,52,292,149,3.0,18

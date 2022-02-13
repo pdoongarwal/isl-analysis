@@ -1,0 +1,319 @@
+{
+  "stat": "Team Red Cards",
+  "stat_id": "134",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 18,
+      "value": 4,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 26616,
+          "player_name": "Pratik Prabhakar Chowdhary",
+          "player_short_name": "Pratik Chowdhary",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 11,
+          "value": 2,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 32034,
+          "player_name": "Claudio Matias Mirabaje Correr",
+          "player_short_name": "Matias Mirabaje",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 12,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 1,
+          "player_id": 6982,
+          "player_name": "Gabriel Cichero",
+          "player_short_name": "Gabriel Cichero",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 15,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 1159,
+      "team_name": "Jamshedpur FC",
+      "team_short_name": "JFC",
+      "match_played": 18,
+      "value": 3,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 10634,
+          "player_name": "Mehtab Hossain",
+          "player_short_name": "Mehtab Hossain",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 12,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 2,
+          "player_id": 21203,
+          "player_name": "Andre Bikey",
+          "player_short_name": "Andre Bikey",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 15,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 2,
+          "player_id": 10767,
+          "player_name": "Subrata Paul",
+          "player_short_name": "Subrata Paul",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 18,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 501,
+      "team_name": "FC Pune City",
+      "team_short_name": "FCPC",
+      "match_played": 20,
+      "value": 3,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 19151,
+          "player_name": "Lalchhuanmawia Fanai",
+          "player_short_name": "Lalchhuanmawia Fanai",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 9,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 3,
+          "player_id": 10646,
+          "player_name": "Baljit Singh Sahni",
+          "player_short_name": "Baljit Sahni",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 11,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 3,
+          "player_id": 26718,
+          "player_name": "Marcelo Leite Pereira",
+          "player_short_name": "Marcelo Pereira",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 17,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 656,
+      "team_name": "Bengaluru FC",
+      "team_short_name": "BFC",
+      "match_played": 21,
+      "value": 3,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 31875,
+          "player_name": "Subhasish Prodyut Bose",
+          "player_short_name": "Subhasish Bose",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 18,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 4,
+          "player_id": 13370,
+          "player_name": "Gurpreet Singh Sandhu",
+          "player_short_name": "Gurpreet Singh Sandhu",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 19,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 4,
+          "player_id": 21201,
+          "player_name": "Rahul Shankar Bheke",
+          "player_short_name": "Rahul Bheke",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 19,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 18,
+      "value": 2,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 26717,
+          "player_name": "Dom Sahil Krishe De Noronha E Tavora",
+          "player_short_name": "Sahil Tavora",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 8,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 5,
+          "player_id": 19145,
+          "player_name": "Sehnaj Kashmir Singh",
+          "player_short_name": "Sehnaj Singh",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 13,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 20,
+      "value": 2,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 31817,
+          "player_name": "Naveen Kumar",
+          "player_short_name": "Naveen Kumar",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 7,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 6,
+          "player_id": 31824,
+          "player_name": "Seriton Benny Fernandes",
+          "player_short_name": "Seriton Fernandes",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 19,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 18,
+      "value": 1,
+      "rank": "7",
+      "top_players": [
+        {
+          "seq": 7,
+          "player_id": 19148,
+          "player_name": "CK Vineeth",
+          "player_short_name": "CK Vineeth",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 14,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 18,
+      "value": 1,
+      "rank": "7",
+      "top_players": [
+        {
+          "seq": 8,
+          "player_id": 10682,
+          "player_name": "Tumbirumbu Paramba Rehenesh",
+          "player_short_name": "TP Rehenesh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 17,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 21,
+      "value": 1,
+      "rank": "9",
+      "top_players": [
+        {
+          "seq": 9,
+          "player_id": 19588,
+          "player_name": "Henrique Sereno Fonseca",
+          "player_short_name": "Henrique Sereno",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 18,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "stat": "Team Tackles",
+  "stat_id": "137",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 499,
+      "team_name": "ATK",
+      "team_short_name": "ATK",
+      "match_played": 17,
+      "value": 388,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 10724,
+          "player_name": "Francisco de Borja",
+          "player_short_name": "Borja Fernández",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 16,
+          "value": 63,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 10727,
+          "player_name": "Jose Miguel",
+          "player_short_name": "Jose Miguel Gonzalez Rey",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 17,
+          "value": 46,
+          "rank": "2"
+        },
+        {
+          "seq": 1,
+          "player_id": 13023,
+          "player_name": "Ofentse",
+          "player_short_name": "Ofentse Nato",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 16,
+          "value": 39,
+          "rank": "3"
+        },
+        {
+          "seq": 1,
+          "player_id": 10642,
+          "player_name": "Arnab Kumar Mondal",
+          "player_short_name": "Arnab Mondal",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 16,
+          "value": 38,
+          "rank": "4"
+        },
+        {
+          "seq": 1,
+          "player_id": 10654,
+          "player_name": "Biswajit Saha",
+          "player_short_name": "Biswajit Saha",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 11,
+          "value": 25,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 16,
+      "value": 361,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 10250,
+          "player_name": "Debabrata Roy",
+          "player_short_name": "Debabrata Roy",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 15,
+          "value": 48,
+          "rank": "1"
+        },
+        {
+          "seq": 2,
+          "player_id": 10256,
+          "player_name": "Narayan Das",
+          "player_short_name": "Narayan Das",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 14,
+          "value": 32,
+          "rank": "2"
+        },
+        {
+          "seq": 2,
+          "player_id": 10756,
+          "player_name": "Youness",
+          "player_short_name": "Youness Bengelloun",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 12,
+          "value": 31,
+          "rank": "3"
+        },
+        {
+          "seq": 2,
+          "player_id": 14848,
+          "player_name": "Haroon",
+          "player_short_name": "Zohib Islam Haroon Fakhruddin Amiri",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 9,
+          "value": 28,
+          "rank": "4"
+        },
+        {
+          "seq": 2,
+          "player_id": 16188,
+          "player_name": "Bikramjit Singh",
+          "player_short_name": "Bikramjit Singh",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 9,
+          "value": 27,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 16,
+      "value": 355,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 10699,
+          "player_name": "Denson Devadas",
+          "player_short_name": "Denson Devadas",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 15,
+          "value": 53,
+          "rank": "1"
+        },
+        {
+          "seq": 3,
+          "player_id": 10694,
+          "player_name": "Harmanjot Singh Khabra",
+          "player_short_name": "Harmanjot Khabra",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 15,
+          "value": 43,
+          "rank": "2"
+        },
+        {
+          "seq": 3,
+          "player_id": 10695,
+          "player_name": "Dhanachandra Singh",
+          "player_short_name": "Dhanachandra Singh",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 14,
+          "value": 35,
+          "rank": "3"
+        },
+        {
+          "seq": 3,
+          "player_id": 10697,
+          "player_name": "Moirangthem Gouramangi Singh",
+          "player_short_name": "Gouramangi Singh",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 11,
+          "value": 23,
+          "rank": "4"
+        },
+        {
+          "seq": 3,
+          "player_id": 10670,
+          "player_name": "Bernard",
+          "player_short_name": "Bernard Mendy",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 23,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 14,
+      "value": 292,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 10758,
+          "player_name": "Guilherme Felipe",
+          "player_short_name": "Guilherme Felipe de Castro",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 10,
+          "value": 43,
+          "rank": "1"
+        },
+        {
+          "seq": 4,
+          "player_id": 10817,
+          "player_name": "Miguel",
+          "player_short_name": "Miguel Angelo Moita Garcia",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 35,
+          "rank": "2"
+        },
+        {
+          "seq": 4,
+          "player_id": 10680,
+          "player_name": "Aiborlang Khongjee",
+          "player_short_name": "Aiborlang Khongjee",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 34,
+          "rank": "3"
+        },
+        {
+          "seq": 4,
+          "player_id": 10686,
+          "player_name": "Robin Gurung",
+          "player_short_name": "Robin Gurung",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 11,
+          "value": 28,
+          "rank": "4"
+        },
+        {
+          "seq": 4,
+          "player_id": 10818,
+          "player_name": "Kondwani",
+          "player_short_name": "Kondwani Mtonga",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 13,
+          "value": 25,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 17,
+      "value": 267,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 10641,
+          "player_name": "Sandesh Jhingan",
+          "player_short_name": "Sandesh Jhingan",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 14,
+          "value": 42,
+          "rank": "1"
+        },
+        {
+          "seq": 5,
+          "player_id": 16235,
+          "player_name": "Stephen Paul Pearson",
+          "player_short_name": "Stephen Pearson",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 17,
+          "value": 28,
+          "rank": "2"
+        },
+        {
+          "seq": 5,
+          "player_id": 10742,
+          "player_name": "Raphael",
+          "player_short_name": "Raphael Romey",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 8,
+          "value": 27,
+          "rank": "3"
+        },
+        {
+          "seq": 5,
+          "player_id": 15867,
+          "player_name": "Colin",
+          "player_short_name": "Colin Falvey",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 9,
+          "value": 21,
+          "rank": "4"
+        },
+        {
+          "seq": 5,
+          "player_id": 10741,
+          "player_name": "Cedric",
+          "player_short_name": "Cedric Hengbart",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 18,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 14,
+      "value": 266,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 25872,
+          "player_name": "Lalrindika Ralte",
+          "player_short_name": "Lalrindika Ralte",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 14,
+          "value": 31,
+          "rank": "1"
+        },
+        {
+          "seq": 6,
+          "player_id": 15879,
+          "player_name": "Tiago Manuel",
+          "player_short_name": "Tiago Manuel Fernandes Ribeiro",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 11,
+          "value": 28,
+          "rank": "2"
+        },
+        {
+          "seq": 6,
+          "player_id": 10747,
+          "player_name": "Johan",
+          "player_short_name": "Johan Letzelter",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 27,
+          "rank": "3"
+        },
+        {
+          "seq": 6,
+          "player_id": 10803,
+          "player_name": "Manuel",
+          "player_short_name": "Manuel Friedrich",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 14,
+          "value": 27,
+          "rank": "4"
+        },
+        {
+          "seq": 6,
+          "player_id": 10744,
+          "player_name": "Jan",
+          "player_short_name": "Jan Štohanzl",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 13,
+          "value": 26,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 501,
+      "team_name": "FC Pune City",
+      "team_short_name": "FCPC",
+      "match_played": 14,
+      "value": 238,
+      "rank": "7",
+      "top_players": [
+        {
+          "seq": 7,
+          "player_id": 1434,
+          "player_name": "Konstantinos",
+          "player_short_name": "Konstantinos Katsouranis",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 14,
+          "value": 34,
+          "rank": "1"
+        },
+        {
+          "seq": 7,
+          "player_id": 10777,
+          "player_name": "Bruno",
+          "player_short_name": "Bruno Cirillo",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 14,
+          "value": 34,
+          "rank": "1"
+        },
+        {
+          "seq": 7,
+          "player_id": 10721,
+          "player_name": "Mehrajuddin Wadoo",
+          "player_short_name": "Mehrajuddin Wadoo",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 10,
+          "value": 19,
+          "rank": "3"
+        },
+        {
+          "seq": 7,
+          "player_id": 10709,
+          "player_name": "Ravanan Dharmaraj",
+          "player_short_name": "Ravanan Dharmaraj",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 14,
+          "value": 19,
+          "rank": "4"
+        },
+        {
+          "seq": 7,
+          "player_id": 10712,
+          "player_name": "Pritam Kotal",
+          "player_short_name": "Pritam Kotal",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 10,
+          "value": 17,
+          "rank": "5"
+        }
+      ]
+    },
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 14,
+      "value": 172,
+      "rank": "8",
+      "top_players": [
+        {
+          "seq": 8,
+          "player_id": 10656,
+          "player_name": "Adil Ahmed Khan",
+          "player_short_name": "Adil Khan",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 7,
+          "value": 22,
+          "rank": "1"
+        },
+        {
+          "seq": 8,
+          "player_id": 15346,
+          "player_name": "Hans",
+          "player_short_name": "Hans Mulder",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 13,
+          "value": 20,
+          "rank": "2"
+        },
+        {
+          "seq": 8,
+          "player_id": 10659,
+          "player_name": "Sauvik Alok Chakrabarti",
+          "player_short_name": "Sauvik Chakrabarti",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 7,
+          "value": 16,
+          "rank": "3"
+        },
+        {
+          "seq": 8,
+          "player_id": 10801,
+          "player_name": "Wim",
+          "player_short_name": "Wim Raymaekers",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 8,
+          "value": 14,
+          "rank": "4"
+        },
+        {
+          "seq": 8,
+          "player_id": 10729,
+          "player_name": "Bruno Herrero Arias",
+          "player_short_name": "Bruno",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 10,
+          "value": 13,
+          "rank": "5"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

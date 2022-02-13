@@ -1,0 +1,244 @@
+{
+  "stat": "Team Red Cards",
+  "stat_id": "134",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 14,
+      "value": 3,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 15861,
+          "player_name": "James",
+          "player_short_name": "James Keene",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 10,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 10693,
+          "player_name": "Joan Capdevila Mendez",
+          "player_short_name": "Joan Capdevila Mendez",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 12,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 1,
+          "player_id": 10680,
+          "player_name": "Aiborlang Khongjee",
+          "player_short_name": "Aiborlang Khongjee",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 16,
+      "value": 3,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 10698,
+          "player_name": "Shilton Paul",
+          "player_short_name": "Shilton Paul",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 4,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 2,
+          "player_id": 15888,
+          "player_name": "Marco",
+          "player_short_name": "Marco Materazzi",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 7,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 2,
+          "player_id": 10671,
+          "player_name": "Bojan",
+          "player_short_name": "Bojan Djordjic",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 11,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 499,
+      "team_name": "ATK",
+      "team_short_name": "ATK",
+      "match_played": 17,
+      "value": 3,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 10653,
+          "player_name": "Rakesh Masih",
+          "player_short_name": "Rakesh Masih",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 8,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 3,
+          "player_id": 4805,
+          "player_name": "Joffre Mateu Gonzalez",
+          "player_short_name": "Joffre Gonzalez",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 12,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 3,
+          "player_id": 10724,
+          "player_name": "Francisco de Borja",
+          "player_short_name": "Borja Fernández",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 16,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 14,
+      "value": 2,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 10659,
+          "player_name": "Sauvik Alok Chakrabarti",
+          "player_short_name": "Sauvik Chakrabarti",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 7,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 4,
+          "player_id": 10734,
+          "player_name": "Morten",
+          "player_short_name": "Morten Skoubo",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 7,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 14,
+      "value": 1,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 10746,
+          "player_name": "Pavel",
+          "player_short_name": "Pavel Cmovs",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 16,
+      "value": 1,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 10750,
+          "player_name": "Bruno Filipe Tavares Pinheiro",
+          "player_short_name": "Bruno Pinheiro",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 14,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 17,
+      "value": 1,
+      "rank": "7",
+      "top_players": [
+        {
+          "seq": 7,
+          "player_id": 15866,
+          "player_name": "James",
+          "player_short_name": "James Reynolds McAllister",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 6,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

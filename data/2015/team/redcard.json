@@ -1,0 +1,147 @@
+{
+  "stat": "Team Red Cards",
+  "stat_id": "134",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 14,
+      "value": 3,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 21086,
+          "player_name": "Bruno",
+          "player_short_name": "Bruno Perone",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 10,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 21084,
+          "player_name": "Josue",
+          "player_short_name": "Josu Currais",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 11,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 1,
+          "player_id": 10634,
+          "player_name": "Mehtab Hossain",
+          "player_short_name": "Mehtab Hossain",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 13,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 17,
+      "value": 2,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 10694,
+          "player_name": "Harmanjot Singh Khabra",
+          "player_short_name": "Harmanjot Khabra",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 13,
+          "value": 2,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 501,
+      "team_name": "FC Pune City",
+      "team_short_name": "FCPC",
+      "match_played": 14,
+      "value": 1,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 10667,
+          "player_name": "Govin Singh Moirangthem",
+          "player_short_name": "Govin Singh Moirangthem",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 4,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 499,
+      "team_name": "ATK",
+      "team_short_name": "ATK",
+      "match_played": 16,
+      "value": 1,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 10646,
+          "player_name": "Baljit Singh Sahni",
+          "player_short_name": "Baljit Sahni",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 5,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 16,
+      "value": 1,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 10659,
+          "player_name": "Sauvik Alok Chakrabarti",
+          "player_short_name": "Sauvik Chakrabarti",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 12,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

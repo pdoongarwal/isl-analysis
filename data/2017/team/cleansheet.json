@@ -1,0 +1,307 @@
+{
+  "stat": "Team Clean Sheets",
+  "stat_id": "131",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 656,
+      "team_name": "Bengaluru FC",
+      "team_short_name": "BFC",
+      "match_played": 21,
+      "value": 8,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 13370,
+          "player_name": "Gurpreet Singh Sandhu",
+          "player_short_name": "Gurpreet Singh Sandhu",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 19,
+          "value": 7,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 19126,
+          "player_name": "Lalthuammawia Ralte",
+          "player_short_name": "Lalthuammawia Ralte",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 2,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 21,
+      "value": 8,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 13366,
+          "player_name": "Karanjit Singh",
+          "player_short_name": "Karanjit Singh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 20,
+          "value": 7,
+          "rank": "1"
+        },
+        {
+          "seq": 2,
+          "player_id": 21407,
+          "player_name": "Pawan Kumar",
+          "player_short_name": "Pawan Kumar",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 1,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 1159,
+      "team_name": "Jamshedpur FC",
+      "team_short_name": "JFC",
+      "match_played": 18,
+      "value": 7,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 10767,
+          "player_name": "Subrata Paul",
+          "player_short_name": "Subrata Paul",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 18,
+          "value": 7,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 501,
+      "team_name": "FC Pune City",
+      "team_short_name": "FCPC",
+      "match_played": 20,
+      "value": 7,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 26757,
+          "player_name": "Vishal Kaith",
+          "player_short_name": "Vishal Kaith",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 17,
+          "value": 7,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 18,
+      "value": 6,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 23649,
+          "player_name": "Paul Rachubka",
+          "player_short_name": "Paul Rachubka",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 12,
+          "value": 5,
+          "rank": "1"
+        },
+        {
+          "seq": 5,
+          "player_id": 10649,
+          "player_name": "Subhasish Roy Chowdhury",
+          "player_short_name": "Subhasish Roy",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 7,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 499,
+      "team_name": "ATK",
+      "team_short_name": "ATK",
+      "match_played": 18,
+      "value": 6,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 19154,
+          "player_name": "Debjit Majumder",
+          "player_short_name": "Debjit Majumder",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 12,
+          "value": 4,
+          "rank": "1"
+        },
+        {
+          "seq": 6,
+          "player_id": 584,
+          "player_name": "Jussi Albert Jaaskelainen",
+          "player_short_name": "Jussi Jaaskelainen",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 1,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 6,
+          "player_id": 16555,
+          "player_name": "Soram Poireiangaba Meitei",
+          "player_short_name": "Soram Poirei",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 5,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 18,
+      "value": 3,
+      "rank": "7",
+      "top_players": [
+        {
+          "seq": 7,
+          "player_id": 3997,
+          "player_name": "Amrinder Ranjit Singh",
+          "player_short_name": "Amrinder Singh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 16,
+          "value": 2,
+          "rank": "1"
+        },
+        {
+          "seq": 7,
+          "player_id": 10717,
+          "player_name": "Arindam Bhattacharja",
+          "player_short_name": "Arindam Bhattacharja",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 2,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 18,
+      "value": 2,
+      "rank": "8",
+      "top_players": [
+        {
+          "seq": 8,
+          "player_id": 3493,
+          "player_name": "Xabier Iruetaguena Arantzamendi",
+          "player_short_name": "Xabier Iruetaguena",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 7,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 8,
+          "player_id": 28537,
+          "player_name": "Arnab Das Sharma",
+          "player_short_name": "Arnab Das Sharma",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 9,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 18,
+      "value": 2,
+      "rank": "9",
+      "top_players": [
+        {
+          "seq": 9,
+          "player_id": 10682,
+          "player_name": "Tumbirumbu Paramba Rehenesh",
+          "player_short_name": "TP Rehenesh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 17,
+          "value": 2,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 20,
+      "value": 2,
+      "rank": "10",
+      "top_players": [
+        {
+          "seq": 10,
+          "player_id": 31817,
+          "player_name": "Naveen Kumar",
+          "player_short_name": "Naveen Kumar",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 7,
+          "value": 2,
+          "rank": "1"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "stat": "Team Saves",
+  "stat_id": "130",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 1499,
+      "team_name": "Odisha FC",
+      "team_short_name": "OFC",
+      "match_played": 20,
+      "value": 70,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 35236,
+          "player_name": "Arshdeep Singh",
+          "player_short_name": "Arshdeep Singh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 16,
+          "value": 64,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 19144,
+          "player_name": "Ravi Vijay Kumar",
+          "player_short_name": "Ravi Kumar",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 2,
+          "value": 3,
+          "rank": "2"
+        },
+        {
+          "seq": 1,
+          "player_id": 31821,
+          "player_name": "Kamaljit Singh",
+          "player_short_name": "Kamaljit Singh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 3,
+          "value": 3,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 1102,
+      "team_name": "SC East Bengal",
+      "team_short_name": "SCEB",
+      "match_played": 20,
+      "value": 64,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 19154,
+          "player_name": "Debjit Majumder",
+          "player_short_name": "Debjit Majumder",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 15,
+          "value": 50,
+          "rank": "1"
+        },
+        {
+          "seq": 2,
+          "player_id": 10767,
+          "player_name": "Subrata Paul",
+          "player_short_name": "Subrata Paul",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 4,
+          "value": 8,
+          "rank": "2"
+        },
+        {
+          "seq": 2,
+          "player_id": 35263,
+          "player_name": "Sankar Roy",
+          "player_short_name": "Sankar Roy",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 1,
+          "value": 3,
+          "rank": "3"
+        },
+        {
+          "seq": 2,
+          "player_id": 35313,
+          "player_name": "Mirshad Kootapunna Michu",
+          "player_short_name": "Mirshad Michu",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 1,
+          "value": 3,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 656,
+      "team_name": "Bengaluru FC",
+      "team_short_name": "BFC",
+      "match_played": 20,
+      "value": 61,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 13370,
+          "player_name": "Gurpreet Singh Sandhu",
+          "player_short_name": "Gurpreet Singh Sandhu",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 19,
+          "value": 58,
+          "rank": "1"
+        },
+        {
+          "seq": 3,
+          "player_id": 19126,
+          "player_name": "Lalthuammawia Ralte",
+          "player_short_name": "Lalthuammawia Ralte",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 1,
+          "value": 3,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 23,
+      "value": 61,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 3997,
+          "player_name": "Amrinder Ranjit Singh",
+          "player_short_name": "Amrinder Singh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 22,
+          "value": 58,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 1159,
+      "team_name": "Jamshedpur FC",
+      "team_short_name": "JFC",
+      "match_played": 20,
+      "value": 59,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 10682,
+          "player_name": "Rehenesh Tumbirumbu Paramba",
+          "player_short_name": "TP Rehenesh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 19,
+          "value": 54,
+          "rank": "1"
+        },
+        {
+          "seq": 5,
+          "player_id": 21407,
+          "player_name": "Pawan Kumar",
+          "player_short_name": "Pawan Kumar",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 2,
+          "value": 5,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 1874,
+      "team_name": "ATK Mohun Bagan",
+      "team_short_name": "ATKMB",
+      "match_played": 23,
+      "value": 59,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 10717,
+          "player_name": "Arindam Bhattacharja",
+          "player_short_name": "Arindam Bhattacharja",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 21,
+          "value": 50,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 20,
+      "value": 58,
+      "rank": "7",
+      "top_players": [
+        {
+          "seq": 7,
+          "player_id": 19153,
+          "player_name": "Albino Gomes",
+          "player_short_name": "Albino Gomes",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 20,
+          "value": 58,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 20,
+      "value": 51,
+      "rank": "8",
+      "top_players": [
+        {
+          "seq": 8,
+          "player_id": 26757,
+          "player_name": "Vishal Kaith",
+          "player_short_name": "Vishal Kaith",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 20,
+          "value": 51,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 22,
+      "value": 42,
+      "rank": "9",
+      "top_players": [
+        {
+          "seq": 9,
+          "player_id": 10649,
+          "player_name": "Subhasish Roy Chowdhury",
+          "player_short_name": "Subhasish Roy",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 15,
+          "value": 26,
+          "rank": "1"
+        },
+        {
+          "seq": 9,
+          "player_id": 55664,
+          "player_name": "Gurmeet Singh",
+          "player_short_name": "Gurmeet",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 8,
+          "value": 16,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 22,
+      "value": 41,
+      "rank": "10",
+      "top_players": [
+        {
+          "seq": 10,
+          "player_id": 55648,
+          "player_name": "Mohammad Nawaz",
+          "player_short_name": "Mohammad Nawaz",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 10,
+          "value": 19,
+          "rank": "1"
+        },
+        {
+          "seq": 10,
+          "player_id": 33956,
+          "player_name": "Dheeraj Singh Moirangthem",
+          "player_short_name": "Dheeraj Singh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 9,
+          "value": 16,
+          "rank": "2"
+        },
+        {
+          "seq": 10,
+          "player_id": 31817,
+          "player_name": "Naveen Kumar",
+          "player_short_name": "Naveen Kumar",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 4,
+          "value": 6,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 1536,
+      "team_name": "Hyderabad FC",
+      "team_short_name": "HFC",
+      "match_played": 20,
+      "value": 39,
+      "rank": "11",
+      "top_players": [
+        {
+          "seq": 11,
+          "player_id": 10254,
+          "player_name": "Laxmikant Kattimani",
+          "player_short_name": "Laxmikant Kattimani",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 14,
+          "value": 26,
+          "rank": "1"
+        },
+        {
+          "seq": 11,
+          "player_id": 10767,
+          "player_name": "Subrata Paul",
+          "player_short_name": "Subrata Paul",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 6,
+          "value": 13,
+          "rank": "2"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

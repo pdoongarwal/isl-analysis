@@ -1,0 +1,232 @@
+{
+  "stat": "Team Clean Sheets",
+  "stat_id": "131",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 499,
+      "team_name": "ATK",
+      "team_short_name": "ATK",
+      "match_played": 17,
+      "value": 8,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 10649,
+          "player_name": "Subhasish Roy Chowdhury",
+          "player_short_name": "Subhasish Roy",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 8,
+          "value": 4,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 6582,
+          "player_name": "Apoula Edima Edel Bete",
+          "player_short_name": "Apoula Edel",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 9,
+          "value": 4,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 16,
+      "value": 7,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 10753,
+          "player_name": "Jan",
+          "player_short_name": "Jan Šeda",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 14,
+          "value": 7,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 498,
+      "team_name": "Kerala Blasters FC",
+      "team_short_name": "KBFC",
+      "match_played": 17,
+      "value": 7,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 10783,
+          "player_name": "David Benjamin James",
+          "player_short_name": "David James",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 12,
+          "value": 4,
+          "rank": "1"
+        },
+        {
+          "seq": 3,
+          "player_id": 10639,
+          "player_name": "Sandip Nandy",
+          "player_short_name": "Sandip Nandy",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 6,
+          "value": 3,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 14,
+      "value": 6,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 10767,
+          "player_name": "Subrata Paul",
+          "player_short_name": "Subrata Paul",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 14,
+          "value": 6,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 14,
+      "value": 6,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 10682,
+          "player_name": "Tumbirumbu Paramba Rehenesh",
+          "player_short_name": "TP Rehenesh",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 12,
+          "value": 5,
+          "rank": "1"
+        },
+        {
+          "seq": 5,
+          "player_id": 1451,
+          "player_name": "Alexandros",
+          "player_short_name": "Alexandros Tzorvas",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 2,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 14,
+      "value": 5,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 10802,
+          "player_name": "Kristof",
+          "player_short_name": "Kristof van Hout",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 14,
+          "value": 5,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 501,
+      "team_name": "FC Pune City",
+      "team_short_name": "FCPC",
+      "match_played": 14,
+      "value": 5,
+      "rank": "6",
+      "top_players": [
+        {
+          "seq": 7,
+          "player_id": 10717,
+          "player_name": "Arindam Bhattacharja",
+          "player_short_name": "Arindam Bhattacharja",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 11,
+          "value": 3,
+          "rank": "1"
+        },
+        {
+          "seq": 7,
+          "player_id": 10778,
+          "player_name": "Emanuele",
+          "player_short_name": "Emanuele Belardi",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 4,
+          "value": 2,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 505,
+      "team_name": "Chennaiyin FC",
+      "team_short_name": "CFC",
+      "match_played": 16,
+      "value": 3,
+      "rank": "8",
+      "top_players": [
+        {
+          "seq": 8,
+          "player_id": 10675,
+          "player_name": "Gennaro",
+          "player_short_name": "Gennaro Bracigliano",
+          "position_id": 4,
+          "position_name": "Goalkeeper",
+          "match_played": 13,
+          "value": 3,
+          "rank": "1"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}

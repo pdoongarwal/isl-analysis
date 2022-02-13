@@ -1,0 +1,245 @@
+{
+  "stat": "Team Red Cards",
+  "stat_id": "134",
+  "minimum_criteria": "",
+  "data": [
+    {
+      "team_id": 496,
+      "team_name": "FC Goa",
+      "team_short_name": "FCG",
+      "match_played": 14,
+      "value": 4,
+      "rank": "1",
+      "top_players": [
+        {
+          "seq": 1,
+          "player_id": 26717,
+          "player_name": "Dom Sahil Krishe De Noronha E Tavora",
+          "player_short_name": "Sahil Tavora",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 6,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 1,
+          "player_id": 10752,
+          "player_name": "Gregory Arnolin",
+          "player_short_name": "Gregory Arnolin",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 8,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 1,
+          "player_id": 26758,
+          "player_name": "Sanjay Balmuchu",
+          "player_short_name": "Sanjay Balmuchu",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 11,
+          "value": 1,
+          "rank": "3"
+        },
+        {
+          "seq": 1,
+          "player_id": 26741,
+          "player_name": "Richarlyson Felisbino",
+          "player_short_name": "Richarlyson Felisbino",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 12,
+          "value": 1,
+          "rank": "4"
+        }
+      ]
+    },
+    {
+      "team_id": 499,
+      "team_name": "ATK FC",
+      "team_short_name": "ATK",
+      "match_played": 17,
+      "value": 4,
+      "rank": "2",
+      "top_players": [
+        {
+          "seq": 2,
+          "player_id": 10662,
+          "player_name": "Robert Lalthlamuana",
+          "player_short_name": "Robert Lalthlamuana",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 9,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 2,
+          "player_id": 19588,
+          "player_name": "Henrique Sereno Fonseca",
+          "player_short_name": "Henrique Sereno",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 10,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 2,
+          "player_id": 16235,
+          "player_name": "Stephen Paul Pearson",
+          "player_short_name": "Stephen Pearson",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 11,
+          "value": 1,
+          "rank": "3"
+        },
+        {
+          "seq": 2,
+          "player_id": 26719,
+          "player_name": "Juan Belencoso",
+          "player_short_name": "Juan Belencoso",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 16,
+          "value": 1,
+          "rank": "4"
+        }
+      ]
+    },
+    {
+      "team_id": 506,
+      "team_name": "Mumbai City FC",
+      "team_short_name": "MCFC",
+      "match_played": 16,
+      "value": 3,
+      "rank": "3",
+      "top_players": [
+        {
+          "seq": 3,
+          "player_id": 10625,
+          "player_name": "Pronay Halder",
+          "player_short_name": "Pronay Halder",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 5,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 3,
+          "player_id": 4084,
+          "player_name": "Thiago Dos Santos Cunha",
+          "player_short_name": "Thiago Cunha",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 6,
+          "value": 1,
+          "rank": "2"
+        },
+        {
+          "seq": 3,
+          "player_id": 26714,
+          "player_name": "Diego Forlan",
+          "player_short_name": "Diego Forlan",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 12,
+          "value": 1,
+          "rank": "3"
+        }
+      ]
+    },
+    {
+      "team_id": 500,
+      "team_name": "Delhi Dynamos FC",
+      "team_short_name": "DDFC",
+      "match_played": 16,
+      "value": 2,
+      "rank": "4",
+      "top_players": [
+        {
+          "seq": 4,
+          "player_id": 28283,
+          "player_name": "Badara Badji",
+          "player_short_name": "Badara Badji",
+          "position_id": 2,
+          "position_name": "Forward",
+          "match_played": 12,
+          "value": 1,
+          "rank": "1"
+        },
+        {
+          "seq": 4,
+          "player_id": 10685,
+          "player_name": "Milan Singh Ongnam",
+          "player_short_name": "Milan Singh",
+          "position_id": 3,
+          "position_name": "Midfielder",
+          "match_played": 15,
+          "value": 1,
+          "rank": "2"
+        }
+      ]
+    },
+    {
+      "team_id": 501,
+      "team_name": "FC Pune City",
+      "team_short_name": "FCPC",
+      "match_played": 14,
+      "value": 1,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 5,
+          "player_id": 26612,
+          "player_name": "Eduardo Ferreira",
+          "player_short_name": "Eduardo Ferreira",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 11,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    },
+    {
+      "team_id": 504,
+      "team_name": "NorthEast United FC",
+      "team_short_name": "NEUFC",
+      "match_played": 14,
+      "value": 1,
+      "rank": "5",
+      "top_players": [
+        {
+          "seq": 6,
+          "player_id": 10636,
+          "player_name": "Nirmal Chettri",
+          "player_short_name": "Nirmal Chettri",
+          "position_id": 1,
+          "position_name": "Defender",
+          "match_played": 8,
+          "value": 1,
+          "rank": "1"
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "stat": "Stat",
+    "stat_id": "Stat Id",
+    "minimum_criteria": "Minimum Criteria",
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "player_id": "Player Id",
+    "player_name": "Player Name",
+    "value": "Value",
+    "match_played": "Match Played",
+    "team": "Team",
+    "tackles": "Tackles"
+  }
+}
