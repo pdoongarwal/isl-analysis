@@ -19,10 +19,11 @@ For this project, I was interestested in using ISL season wise data of each team
 3. Curious case of FC Goa.
 
 ## File Descriptions <a name="files"></a>
+There is data folder containing stats of all team by each year in json files. Folder structure is self-explanatory.
 
 There are 2 notebooks available here.
 
-- Teams_Year_Analysis: Combines data for each stat for a year into a single csv file.
+- Teams_Year_Analysis: Combines data for stats for a year into a single csv file.
 - ISL overall analysis: Analysis combined data and answer questions mentioned above.
 
 Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
