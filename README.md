@@ -19,6 +19,7 @@ For this project, I was interestested in using ISL season wise data of each team
 3. Curious case of FC Goa.
 
 ## File Descriptions <a name="files"></a>
+
 There is data folder containing stats of all team by each year in json files. Folder structure is self-explanatory.
 
 There are 2 notebooks available here.
@@ -30,7 +31,7 @@ Each of the notebooks is exploratory in searching through the data pertaining to
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/2541bb4db98c).
+The main findings of the code can be found at the post available [here](https://pdoongarwal.medium.com/how-to-succeed-in-isl-2541bb4db98c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
